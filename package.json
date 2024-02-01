@@ -1,0 +1,8 @@
+{
+  "name": "blog-cattynip-dev",
+  "description": "Cattynip's blog website, https://blog.cattynip.dev",
+  "author": "Seol SO <hi@cattynip.dev>",
+  "version": "0.0.1",
+  "type": "module",
+  "private": true
+}
